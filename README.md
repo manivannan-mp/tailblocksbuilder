@@ -1,7 +1,10 @@
-# tailblocks
-### 🎉 Ready-to-use Tailwind CSS blocks
+# Website Builder using tailwind css.
+### 🎉 Ready-to-use Website Builder using Tailwind CSS blocks.
 ##### Features
 
+* Drag and drop blocks
+* Inline edit the elements
+* Preview the website in Multi device mode.
 * 15 different categories (ecommerce, blog, pricing and more...)
 * Responsive
 * Dark/light mode
