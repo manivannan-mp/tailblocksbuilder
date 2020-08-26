@@ -12,7 +12,7 @@
 
 ## How to use this project
 
-[![tailblocks](https://github.com/mertjf/tailblocks/blob/master/public/preview.gif)](https://mertjf.github.io/tailblocks)
+[![tailbuilder](https://github.com/manivannan-mp/tailbuilder/blob/master/public/preview.gif)](https://mertjf.github.io/tailbuilder)
 
 This project provides multiple templates built using [Tailwind
 CSS](https://tailwindcss.com/) that you can use in your own projects. This
@@ -21,7 +21,7 @@ you with HTML that you can easily copy and paste into your own project.
 
 To use the project:
 
-1. Go to the [demo site](https://mertjf.github.io/tailblocks/)
+1. Go to the [demo site](https://mertjf.github.io/tailbuilder/)
 1. Find a template that you would like to use
 1. Select the colorscheme you want with the colorscheme-picker
 1. Select whether you would like to use light or dark mode with the picker
@@ -32,4 +32,4 @@ To use the project:
 
 ## License
 
-Code copyright 2020 Mert Cukuren. Code released under [the MIT license](https://github.com/mertjf/tailblocks/blob/master/LICENSE).
+Code copyright 2020 Mert Cukuren. Code released under [the MIT license](https://github.com/manivannan-mp/tailbuilder/blob/master/LICENSE).

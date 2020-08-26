@@ -323,7 +323,7 @@ class App extends Component {
           {this.listRenderer()}
         </aside>
         <div className="toolbar">
-          <button className="opener" onClick={this.toggleSidebar} ref={this.openerRef}>TAILBLOCKS</button>
+          <button className="opener" onClick={this.toggleSidebar} ref={this.openerRef}>tailbuilder</button>
           {this.state.codeView &&
             <div className="clipboard-wrapper">
               <button className="copy-the-block copy-to-clipboard" onClick={this.copyToClipboard}>
@@ -390,7 +390,7 @@ class App extends Component {
             </div>
           </div>
         </main>
-        <a href="https://github.com/mertJF/tailblocks" className="github" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/manivannan-mp/tailbuilder" className="github" target="_blank" rel="noopener noreferrer">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
             <path
               fill="currentColor"
